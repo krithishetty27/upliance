@@ -9,7 +9,7 @@ The task involves cleaning and merging the data, analyzing the relationship betw
 Additionally, you will create visualizations to showcase key insights and write a report summarizing your findings and business recommendations. 
 # Popular Dishes
 ![image](https://github.com/user-attachments/assets/5b66e20f-6d2f-43d9-86b9-b5283fa506b0)
-1. Optimized Cooking Programs:
+1. Optimized Cooking Programs: 
 
 Prioritize Development: Upliance should prioritize developing optimized cooking programs for Spaghetti and Grilled Chicken, ensuring consistent and delicious results for these popular dishes.
 
