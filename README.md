@@ -7,6 +7,20 @@ You will work with three datasets: UserDetails, CookingSessions, and OrderDetail
 The task involves cleaning and merging the data, analyzing the relationship between cooking sessions and user orders, identifying popular dishes, and exploring demographic factors that influence user behavior. 
 
 Additionally, you will create visualizations to showcase key insights and write a report summarizing your findings and business recommendations. 
+# Popular Dishes
+![image](https://github.com/user-attachments/assets/5b66e20f-6d2f-43d9-86b9-b5283fa506b0)
+1. Optimized Cooking Programs:
+
+Prioritize Development: Upliance should prioritize developing optimized cooking programs for Spaghetti and Grilled Chicken, ensuring consistent and delicious results for these popular dishes.
+Refine Programs: Focus on refining the cooking programs for Pancakes, Veggie Burger, and Oatmeal to improve their taste and presentation. This could involve adjusting cooking times, temperatures, and stirring patterns.
+
+2. User Interface and Guidance:
+
+Highlight Popular Dishes: The Upliance machine's user interface should prominently feature Spaghetti and Grilled Chicken, possibly with attractive images and brief descriptions.
+Recipe Suggestions: The machine could proactively suggest Spaghetti or Grilled Chicken as recipe recommendations based on user preferences or past cooking history.
+Personalized Guides: For less popular dishes, the machine could provide more detailed step-by-step guides or video tutorials to encourage users to try them.
+
+
 # Correlation
 ![Screenshot 2024-12-23 174921](https://github.com/user-attachments/assets/3fa08e58-4804-474c-9e97-96b79a0fa8e5)
 
