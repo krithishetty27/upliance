@@ -47,19 +47,12 @@ Engagement and Spending: Users who spend more time in cooking sessions and give 
 
 Age and Behavior: While there are weak negative correlations between age and some other variables, the overall impact of age on user behavior seems to be limited.
 
-
+# Meal Preferences
+![image](https://github.com/user-attachments/assets/cfd1c327-fdd8-45ea-a86e-1efe1775f60d)
 
 1. Insights:
 
-Dinner is Most Popular: Dinner is the most preferred meal among users, accounting for a significant 50% of the total preferences.
-
-Lunch is Second: Lunch comes in second with 30% of user preferences.
-
-Breakfast is Least Popular: Breakfast has the lowest preference among users, with only 20%.
-
-Business Implications and Actions
-
-
+Dinner is the most preferred meal among users, accounting for a significant 50% of the total preferences. Lunch comes in second with 30% of user preferences and Breakfast has the lowest preference among users, with only 20%.
 
 2. Marketing and Promotions:
 
