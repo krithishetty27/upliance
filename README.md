@@ -44,4 +44,5 @@ Interpreting the Results:
 By analyzing this heatmap, we can gain valuable insights into user behavior:
 
 Engagement and Spending: Users who spend more time in cooking sessions and give higher ratings to their experiences are more likely to spend more money on orders. This suggests that engagement and satisfaction are crucial factors in driving revenue.
+
 Age and Behavior: While there are weak negative correlations between age and some other variables, the overall impact of age on user behavior seems to be limited.
