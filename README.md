@@ -27,19 +27,19 @@ Personalized Guides: For less popular dishes, the machine could provide more det
 # Correlation
 ![Screenshot 2024-12-23 174921](https://github.com/user-attachments/assets/3fa08e58-4804-474c-9e97-96b79a0fa8e5)
 
-Positive Correlations:
+1. Positive Correlations:
 
 Total Orders vs. Duration (mins): A moderate positive correlation suggests that users who spend more time in cooking sessions tend to place more orders. This could indicate that longer sessions lead to greater engagement and a higher likelihood of ordering.
 
 Session Rating vs. Amount (USD): A strong positive correlation implies that users who give higher ratings to their cooking sessions also tend to spend more money on orders. This could suggest that positive experiences in the app translate to higher spending.
 
-Negative Correlations:
+2. Negative Correlations:
 
 Age vs. Total Orders: A weak negative correlation suggests a slight tendency for younger users to place more orders. However, this relationship is not very strong.
 
 Age vs. Duration (mins): A weak negative correlation suggests that younger users might spend slightly less time in cooking sessions compared to older users. Again, this relationship is not very strong.
 
-Interpreting the Results:
+3. Interpreting the Results:
 
 By analyzing this heatmap, we can gain valuable insights into user behavior:
 
